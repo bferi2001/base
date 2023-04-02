@@ -46,7 +46,7 @@ public class TrainControllerImpl implements TrainController {
 		this.step = joystickPosition;
 	}
 
-	public void setReferenceSpeed(int referenceSpeed) {
+	public vid setReferenceSpeed(int referenceSpeed) {
 		this.referenceSpeed = referenceSpeed;
 	}
 
